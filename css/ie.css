@@ -1,0 +1,10 @@
+input[type = "text"] {
+	width: 221px;
+	height: 33px;
+	background: #fff;
+	border: none;
+	margin-top: 5px;
+	background: url('../img/1.png') no-repeat;
+	padding-left: 10px;
+	padding-top: 7px;
+}
